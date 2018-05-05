@@ -1,0 +1,1 @@
+export const excelPath = './F&G.xlsx';
